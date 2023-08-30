@@ -1,0 +1,4 @@
+Name: Lohitya Wasnik, Roll No.:20MI10030
+
+mysql-connector-python
+fastapi[all]
